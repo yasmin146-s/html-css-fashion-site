@@ -9,7 +9,7 @@ A fully designed front-end eCommerce website called **Capital Shop**, showcasing
 > _Add a link here if hosted on GitHub Pages or Netlify_  
 > _Or use the video in the Issues tab as a demo link:_
 
-🎥 [Click here to watch the demo](https://github.com/yasmin146-s/-Chocolate-Themed-Web-Design-Project/issues/1)
+🎥 [Click here to watch the demo](https://github.com/user-attachments/assets/61fdf867-b8df-493d-b3d7-76e3689bf573)
 
 ---
 
